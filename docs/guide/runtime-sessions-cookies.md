@@ -32,7 +32,7 @@ $session->close();
 // destroys all data registered to a session.
 $session->destroy();
 ```
-
+bal bal bal
 You can call [[yii\web\Session::open()|open()]] and [[yii\web\Session::close()|close()]] multiple times
 without causing errors; internally the methods will first check if the session is already open.
 
